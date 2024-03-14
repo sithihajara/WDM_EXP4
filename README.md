@@ -60,10 +60,9 @@ plt.show()
 ```
 ### Output:
 
-![a](image.png)
+![image](https://github.com/sithihajara/WDM_EXP4/assets/94219582/782e8640-8d81-4ac0-a707-cc3ca63f03da)
 
-
-![a](image-1.png)
+![image-1](https://github.com/sithihajara/WDM_EXP4/assets/94219582/bb637368-7a2c-419f-a74d-e58dd47eafc8)
 
 
 
